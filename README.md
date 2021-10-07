@@ -1,11 +1,17 @@
 # Учим основы web программирования
-HTML - https://youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl
+✓ - Сделано
 
-CSS - https://youtube.com/playlist?list=PLuY6eeDuleIOn8NTkZVsUn9jDCkdoJH9Z
+⧖ - Работаю
 
-Bootstrap 4 - https://youtube.com/playlist?list=PLuY6eeDuleIP8cwKmwmT2pAGFMnhI5qNO
+☒ - Ожидается
 
-JS Base - https://youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG
+HTML - ⧖ - https://youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl
 
-jQuery - https://youtube.com/playlist?list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz
+CSS - ☒ - https://youtube.com/playlist?list=PLuY6eeDuleIOn8NTkZVsUn9jDCkdoJH9Z
+
+Bootstrap 4 - ☒ - https://youtube.com/playlist?list=PLuY6eeDuleIP8cwKmwmT2pAGFMnhI5qNO
+
+JS Base - ☒ - https://youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG
+
+jQuery - ☒ - https://youtube.com/playlist?list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz
 
