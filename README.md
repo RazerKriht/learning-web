@@ -5,9 +5,9 @@
 
 ☒ - Ожидается
 
-HTML - ⧖ - ```https://youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl```
+HTML - ✓ - ```https://youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl```
 
-CSS - ☒ - ```https://youtube.com/playlist?list=PLuY6eeDuleIOn8NTkZVsUn9jDCkdoJH9Z```
+CSS - ⧖ - ```https://youtube.com/playlist?list=PLuY6eeDuleIOn8NTkZVsUn9jDCkdoJH9Z```
 
 Bootstrap 4 - ☒ - ```https://youtube.com/playlist?list=PLuY6eeDuleIP8cwKmwmT2pAGFMnhI5qNO```
 
